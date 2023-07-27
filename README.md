@@ -5,3 +5,7 @@ productos.
 
 
 ![Screenshot_2023-07-26-21-16-36-344_com example carrito](https://github.com/Sebas333231/Carrito_compose/assets/110652225/85255c91-408a-408f-810b-e07dd1d0c4a6)
+
+
+
+![Screenshot_2023-07-26-21-15-21-035_com example carrito](https://github.com/Sebas333231/Carrito_compose/assets/110652225/aa230272-3181-46a1-8971-306f2055dec5)
