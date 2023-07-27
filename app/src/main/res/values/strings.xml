@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">carrito</string>
+    <string name="buscador">Search</string>
+    <string name="herramientas">Tools</string>
+    <string name="aseo">Aseo</string>
+    <string name="Comida">Meal</string>
+    <string name="bebidas">drinks</string>
+    <string name="verduras">vegetables</string>
+    <string name="Categorias">Categories</string>
+    <string name="ham">Hamburguer</string>
+    <string name="pizza">Pizza</string>
+    <string name="salchi">Salchipapas</string>
+    <string name="pan">Panzerotti</string>
+    <string name="corona">Corona</string>
+    <string name="whiskies">Whiskies</string>
+    <string name="Populares">Populares</string>
+</resources>
